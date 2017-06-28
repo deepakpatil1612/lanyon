@@ -6,7 +6,7 @@ title: What's Jekyll?
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
 Inline-style: 
-![alt text](https://www.google.co.in/search?q=taj+mahal&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit-N7bqODUAhXCq48KHb_tBOMQ_AUICygC&biw=1366&bih=613#imgrc=fXpHaVKZrJjFEM: "Taj Mahal")
+![alt text](WP_20131218_005 (1).png: "Taj Mahal")
 
   > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
